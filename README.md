@@ -3,6 +3,8 @@ Sublime-Text Setup
 
 A list of all my Sublime Text packages, preferences, and other stuff related to my editor setup.
 
+![Sublime Text 2 screenshot](https://raw.github.com/jvrplmlmn/sublime-text/master/screenshot.png)
+
 Theme
 -----
 * [Soda Dark](https://github.com/buymeasoda/soda-theme/)
